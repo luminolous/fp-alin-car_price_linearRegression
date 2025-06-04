@@ -1,7 +1,7 @@
-# 🚗 Car Price Prediction with 95% Accuracy
+# 🚗 Car Price Prediction
 
 ## 📌 Overview
-This project focuses on predicting car prices using a dataset with structured automotive features. With a heavy emphasis on **feature engineering**, we transform raw data into powerful signals, resulting in a predictive model with over **95% accuracy**.
+This project focuses on predicting car prices using a dataset with structured automotive features. With a heavy emphasis on **feature engineering**, we transform raw data into powerful signals, resulting in a predictive model.
 
 ## 📊 Dataset
 The dataset contains detailed information about various cars, including:
