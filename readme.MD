@@ -45,3 +45,13 @@ The dataset contains detailed information about various cars, including:
    ```bash
    pip install -r requirements.txt
 3. Launch the notebook:
+   ```bash
+   jupyter notebook car-price-prediction-95-accuracy-achieved.ipynb
+
+## 📚 Learnings
+- Feature engineering can dramatically improve model performance
+- Car brand extraction proved to be a highly predictive variable
+- Data preprocessing and encoding choices are crucial in regression tasks
+
+## ✅ Results
+By combining domain insights and data science techniques, this project demonstrates how structured data and thoughtful transformation can lead to accurate price prediction models.
