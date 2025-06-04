@@ -1,4 +1,3 @@
-readme_content = """
 # 🚗 Car Price Prediction with 95% Accuracy
 
 ## 📌 Overview
